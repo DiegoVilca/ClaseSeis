@@ -23,7 +23,7 @@ namespace Ejercicio2
 
             UnPeso = UnPeso + UnDolar;
 
-            Console.WriteLine("Pesos: ", UnPeso.cantidad);
+            Console.WriteLine("Pesos: "+ UnPeso.cantidad);
 
             Console.ReadKey();
         }
