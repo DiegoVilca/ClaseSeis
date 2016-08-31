@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioForm", "EjercicioForm\EjercicioForm.csproj", "{644FD2A9-771E-4483-8FFD-52FB0F6798F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerreteFacturacion", "FerreteFacturacion\FerreteFacturacion.csproj", "{000F0FF9-E281-4421-A06A-7647806C2822}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{644FD2A9-771E-4483-8FFD-52FB0F6798F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{644FD2A9-771E-4483-8FFD-52FB0F6798F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{644FD2A9-771E-4483-8FFD-52FB0F6798F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000F0FF9-E281-4421-A06A-7647806C2822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000F0FF9-E281-4421-A06A-7647806C2822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000F0FF9-E281-4421-A06A-7647806C2822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000F0FF9-E281-4421-A06A-7647806C2822}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
